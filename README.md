@@ -1,0 +1,23 @@
+# Hi, I'm Rishabh
+
+I'm based in Auckland. I have seven years of frontline customer service behind me, the last three as an online supervisor at Woolworths, and a Diploma in Information Technology (web, software and mobile app development). I'm looking for a customer service or help desk role where I can keep solving problems for people and keep learning the technical side.
+
+## What I do
+
+- **Support:** complaints, refunds, phone support, de-escalation, training new staff, running a team of 4 to 10 on shift
+- **Technical:** troubleshooting on macOS and Windows, software setup, Terminal, Git and GitHub, Vercel
+- **Web:** React, Vite, Tailwind CSS, JavaScript, TypeScript, HTML and CSS
+
+## Projects
+
+| Project | What it is |
+|---|---|
+| [The Cleanic](https://github.com/jonty-afk/the_cleanic_website) | Website for my Airbnb cleaning business in Auckland. Static site, deployed on Vercel. |
+| [Saraya](https://github.com/jonty-afk/saraya) | Storefront for a luxury Indian fashion brand. React, TypeScript and shadcn/ui. |
+| [SymbioEngine](https://github.com/jonty-afk/symbioengine) | React and Vite web app using ethers.js. |
+| [ZenithFlow](https://github.com/jonty-afk/ZenithFlow) | React and Tailwind app with Solana web3.js. |
+| [Portfolio](https://github.com/jonty-afk/resume-website) | Personal site built with React and Framer Motion. |
+
+## Currently
+
+Running The Cleanic, supervising at Woolworths, and applying for support roles in Auckland.
