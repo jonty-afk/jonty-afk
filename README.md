@@ -1,10 +1,10 @@
 # Hi, I'm Rishabh
 
-I'm based in Auckland. I have seven years of frontline customer service behind me, the last three as an online supervisor at Woolworths, and a Diploma in Information Technology (web, software and mobile app development). I'm looking for a customer service or help desk role where I can keep solving problems for people and keep learning the technical side.
+I'm based in Auckland. I have seven years of frontline customer service behind me at Woolworths, five of them as an online supervisor, and a Diploma in Information Technology (web, software and mobile app development). I'm looking for a customer service or help desk role where I can keep solving problems for people and keep learning the technical side.
 
 ## What I do
 
-- **Support:** complaints, refunds, phone support, de-escalation, training new staff, running a team of 4 to 10 on shift
+- **Support:** complaints, refunds, phone support, de-escalation, training new staff, running a team of up to 10 on shift
 - **Technical:** troubleshooting on macOS and Windows, software setup, Terminal, Git and GitHub, Vercel
 - **Web:** React, Vite, Tailwind CSS, JavaScript, TypeScript, HTML and CSS
 
