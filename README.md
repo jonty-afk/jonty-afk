@@ -15,9 +15,6 @@ I'm based in Auckland. I have seven years of frontline customer service behind m
 | [Helpdesk Ticket Tracker](https://github.com/jonty-afk/helpdesk-ticket-tracker) | Log, assign, filter and close helpdesk tickets. React and Tailwind, runs in the browser. |
 | [The Cleanic](https://github.com/jonty-afk/the_cleanic_website) | Website for my Airbnb cleaning business in Auckland. Static site, deployed on Vercel. |
 | [Saraya](https://github.com/jonty-afk/saraya) | Storefront for a luxury Indian fashion brand. React, TypeScript and shadcn/ui. |
-| [SymbioEngine](https://github.com/jonty-afk/symbioengine) | React and Vite web app using ethers.js. |
-| [ZenithFlow](https://github.com/jonty-afk/ZenithFlow) | React and Tailwind app with Solana web3.js. |
-| [Portfolio](https://github.com/jonty-afk/resume-website) | Personal site built with React and Framer Motion. |
 
 ## Currently
 
