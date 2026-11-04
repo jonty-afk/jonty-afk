@@ -13,6 +13,7 @@ I'm based in Auckland. I have seven years of frontline customer service behind m
 | Project | What it is |
 |---|---|
 | [Helpdesk Ticket Tracker](https://github.com/jonty-afk/helpdesk-ticket-tracker) | Log, assign, filter and close helpdesk tickets. React and Tailwind, runs in the browser. |
+| [Troubleshooting Guide](https://github.com/jonty-afk/troubleshooting-guide) | Step-by-step flows for Wi-Fi, printer, password and slow Mac problems. Plain JavaScript and Vite. |
 | [The Cleanic](https://github.com/jonty-afk/the_cleanic_website) | Website for my Airbnb cleaning business in Auckland. Static site, deployed on Vercel. |
 | [Saraya](https://github.com/jonty-afk/saraya) | Storefront for a luxury Indian fashion brand. React, TypeScript and shadcn/ui. |
 
