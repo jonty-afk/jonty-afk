@@ -18,6 +18,7 @@ I'm based in Auckland. I have seven years of frontline customer service behind m
 | [Complaint Reply Helper](https://github.com/jonty-afk/complaint-reply-helper) | Drafts customer complaint replies from a problem type, outcome and tone, with an editable draft and copy button. React and Tailwind, runs in the browser. |
 | [3D Portfolio](https://github.com/jonty-afk/3d-portfolio) | Interactive 3D ring of my projects with a keyboard-friendly list alongside. Three.js and Vite. |
 | [IT Asset Inventory](https://github.com/jonty-afk/it-asset-inventory) | Tracks office devices and software licences, flags warranties and renewals due, and exports to CSV. React and Tailwind, runs in the browser. |
+| [Uptime Checker](https://github.com/jonty-afk/uptime-checker) | Checks a list of websites and prints a status table with response codes, times and failure reasons, with an optional CSV log. Node.js command-line tool. |
 | [The Cleanic](https://github.com/jonty-afk/the_cleanic_website) | Website for my Airbnb cleaning business in Auckland. Static site, deployed on Vercel. |
 | [Saraya](https://github.com/jonty-afk/saraya) | Storefront for a luxury Indian fashion brand. React, TypeScript and shadcn/ui. |
 
